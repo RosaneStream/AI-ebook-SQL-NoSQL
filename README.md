@@ -20,19 +20,20 @@
 </p>
 
     
-# 💻Project AI-generated technical article
+# 💻Project AI-ebook generated
 
- > ℹ️ **NOTE:** Repository developed together with technical instructor Felipe Aguiar during the course on the [DIO platform](https://web.dio.me/track/decf433b-9bc9-4ddc-bfd4-639ed8da82d9).
+ > ℹ️ **NOTE:** Repository developed with technical instructions from Felipe Aguiar during the course on the [DIO platform](https://web.dio.me/track/decf433b-9bc9-4ddc-bfd4-639ed8da82d9).
 
-Project with the objective of generating a technical article with a rich layout, pleasant to read and focused on promoting its technical authority.
+Project with the objective of generating a technical e-book with a rich layout, pleasant to read and focused on promoting its technical authority.
 
-<a href="https://web.dio.me/articles/from-data-to-business-dashboard-a-python-developers-guide-to-visualizing-information" title="View article"> 📔Click here to read the article</a>
+<a href="https://web.dio.me/articles/from-data-to-business-dashboard-a-python-developers-guide-to-visualizing-information" title="View e-book"> 📔Click here to read the article</a>
 
 
 ## ⚛️ Useful tools
 
 - [ChatGPT](https://chat.openai.com/) - headline and content
 - [Lexica.art](https://lexica.art/) - images
+- [Canva](https://canva.com/) - images manipulation
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint) - banner and layouts
 - [Word](https://www.microsoft.com/en/microsoft-365/word) - writing
 - [VsCode](https://vscode.dev/) - code testing
@@ -46,43 +47,41 @@ Project with the objective of generating a technical article with a rich layout,
 - Prompt: Please, give-me ten possible headlines for an article about directives to develop dashboards using Python                            
 
 - Action: Contents
-- Prompt:
+- Prompt:Give 5 possible titles for an ebook, epic and short, where the main subject is about database,
+  the subtitle is about similarities and differences between SQL and NoSQL, which theme is related to the Avengers Comic.
   - Behave as if you were a senior developer by explaining in an easy way whereas the target audience is people with no technical knowledge, showing some examples when possible.
-  - Following the rules below, write an article, which will have this headline “From Data to Business Dashboard: A Python Developer's Guide to Visualizing Information”
-  - {RULES}
-      - Limit a maximum of 10 lines per explanation;
-      - Use blocks like this:
-      - Define “what structural and attribute directives are and how - 
-        they can be useful in this guide. Use bullet points and show examples when possible”;
-      - “What are reports and dashboards, specifying the difference 
-        between them”;
-      - “What are business dashboards”;
-      - “What is python language”;
-      - Add a Python code generating a dashboard;
-      - Produce a call action for social media;
-      - Indicate 5 main hashtags.
+  - Following the rules below, write a text for an e-book, focusing on SQL and NoSQL, their similarities and differences,
+    whose title is “Database Wars: SQL vs. NoSQL – Uniting the Data Avengers”, maintaining a theme related to the Avengers.
+    {RULES}
+    - Explain simply
+    - Keep text clean and short
+    - Bring code examples
+    - Title topics
+    - Produce a call action for my social media;
+    - Indicate 3 main hashtags.
 
 ### Lexica.art：
-The images utilized were sourced from the public collection available on the website lexica.art. The search terms employed to find these images included "Python", "Dashboard", and "AI".
+The images utilized were sourced from the public collection available on the website lexica.art. The search terms employed to find these images included "SQLxNoSQL", "Avengers", and "AI".
 
 
 ## 🏋️ Features
 
-- Conteúdo gerado via ChatGPT
-- Imagens do acervo público geradas via Lexica.art
-- Word
-- Powerpoint
-- Human interaction with prompts, revision and tests
+- Content generated via ChatGPT
+- Images from the public collection generated via Lexica.art
+- Images manipulation on Canva
+- Word writing and reviewing
+- Power point final project
+- Human interaction with prompts, reviews and tests
 
 
 ## 👀 Content
 
-- The result of research developed by human experience and interaction using specific prompts
+- The contents are result of some research developed by human experience, reviewing, tests and interaction using specific prompts
 
   
 ## 🧭 Final instructions
 
-To follow this model, you might use the prompts mentioned above and features pointed out in this document, which were used to update the article produced, as well as to generate the inserted images. Detailed instructions can be found at [DIO - ChatGPT for Devs](https://web.dio.me/track/decf433b-9bc9-4ddc-bfd4-639ed8da82d9).
+To follow this model, you might use the prompts mentioned above and features pointed out in this document, which were used to produce the e-book, as well as to generate the inserted images. Detailed instructions can be found at [DIO - ChatGPT for Devs](https://web.dio.me/track/decf433b-9bc9-4ddc-bfd4-639ed8da82d9).
 
 
 ## 👩🏻‍💻 Systems Analyst
