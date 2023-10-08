@@ -54,7 +54,7 @@ Project with the objective of generating a technical e-book with a rich layout, 
     {RULES}
     - Explain simply
     - Keep text clean and short
-    - Bring code examples
+    - Bring queries examples comparing SQL and NoSQL
     - Title topics
     - Produce a call action for my social media;
     - Indicate 3 main hashtags.
