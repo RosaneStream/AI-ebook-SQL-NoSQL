@@ -43,13 +43,12 @@ Project with the objective of generating a technical e-book with a rich layout, 
 
 ### ChatGPT：
 
-- Action: Headline
-- Prompt: Please, give-me ten possible headlines for an article about directives to develop dashboards using Python                            
+- Action: Title
+- Prompt: Give 5 possible titles for an ebook, epic and short, where the main subject is about database,
+  the subtitle is about similarities and differences between SQL and NoSQL, which theme is related to the Avengers Comic.                         
 
 - Action: Contents
-- Prompt:Give 5 possible titles for an ebook, epic and short, where the main subject is about database,
-  the subtitle is about similarities and differences between SQL and NoSQL, which theme is related to the Avengers Comic.
-  - Behave as if you were a senior developer by explaining in an easy way whereas the target audience is people with no technical knowledge, showing some examples when possible.
+- Prompt: Behave as if you were a senior developer by explaining in an easy way whereas the target audience is people with no technical knowledge, showing some examples when possible.
   - Following the rules below, write a text for an e-book, focusing on SQL and NoSQL, their similarities and differences,
     whose title is “Database Wars: SQL vs. NoSQL – Uniting the Data Avengers”, maintaining a theme related to the Avengers.
     {RULES}
