@@ -12,7 +12,7 @@
 
 -------
 <p align="center">
-<a href="https://www.linkedin.com/posts/rosanediasribeiro_database-wars-sql-x-nosql-uniting-the-activity-7117330195501527040-FJZa?utm_source=share&utm_medium=member_desktop"><img
+<a href="ebook - sql and nosql - Avengers.pdf"><img
     src="assets\preview.png"
     width="400"  
   />
