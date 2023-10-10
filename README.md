@@ -12,7 +12,7 @@
 
 -------
 <p align="center">
-<a href="https://www.linkedin.com/pulse/from-data-business-dashboard-python-developers-guide-ribeiro/"><img
+<a href="https://www.linkedin.com/posts/rosanediasribeiro_database-wars-sql-x-nosql-uniting-the-activity-7117330195501527040-FJZa?utm_source=share&utm_medium=member_desktop"><img
     src="assets\preview.png"
     width="400"  
   />
@@ -26,7 +26,7 @@
 
 Project with the objective of generating a technical e-book with a rich layout, pleasant to read and focused on promoting its technical authority.
 
-<a href="https://web.dio.me/articles/from-data-to-business-dashboard-a-python-developers-guide-to-visualizing-information" title="View e-book"> 📔Click here to read the e-book</a>
+<a href="https://www.linkedin.com/posts/rosanediasribeiro_database-wars-sql-x-nosql-uniting-the-activity-7117330195501527040-FJZa?utm_source=share&utm_medium=member_desktop" title="View e-book"> 📔Click here to read the e-book</a>
 
 
 ## ⚛️ Useful tools
