@@ -13,7 +13,7 @@
 -------
 <p align="center">
 <a href="https://www.linkedin.com/pulse/from-data-business-dashboard-python-developers-guide-ribeiro/"><img
-    src="assets\preview.jpeg"
+    src="assets\preview.png"
     width="400"  
   />
   </a>
@@ -26,7 +26,7 @@
 
 Project with the objective of generating a technical e-book with a rich layout, pleasant to read and focused on promoting its technical authority.
 
-<a href="https://web.dio.me/articles/from-data-to-business-dashboard-a-python-developers-guide-to-visualizing-information" title="View e-book"> 📔Click here to read the article</a>
+<a href="https://web.dio.me/articles/from-data-to-business-dashboard-a-python-developers-guide-to-visualizing-information" title="View e-book"> 📔Click here to read the e-book</a>
 
 
 ## ⚛️ Useful tools
@@ -75,8 +75,8 @@ The images utilized were sourced from the public collection available on the web
 
 ## 👀 Content
 
-- The contents are result of some research developed by human experience, reviewing, tests and interaction using specific prompts
-
+- This content is the result of AI research using specific prompts developed by an experienced professional,
+  under review and formatting, image manipulation and script testing carried out by a human being.
   
 ## 🧭 Final instructions
 
@@ -86,7 +86,7 @@ To follow this model, you might use the prompts mentioned above and features poi
 ## 👩🏻‍💻 Systems Analyst
 
 <p>
-    <img align=left margin=10 width=80 src="assets\profile.jpeg"/>
+    <img align=left margin=10 width=80 src="assets\profile.png"/>
     <p></p>
     <br>Follow Rosane Ribeiro</br>
     <p></p>
